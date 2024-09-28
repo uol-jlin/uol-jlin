@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan!
-- 🌐 Check out my [personal website](https://uol-jlin.github.io)
+- Check out my [resume](https://uol-jlin.github.io)
  
 ### GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uol-jlin&theme=default&hide_border=false)<br/>
